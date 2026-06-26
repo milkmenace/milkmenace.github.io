@@ -85,3 +85,13 @@ p {
 
 }
 
+.adclose{
+  width:25px;
+  height:25px;
+  position:absolute;
+  left:0%;
+  top:0%;
+  background: none;
+  border:none;
+  cursor: pointer;
+}
