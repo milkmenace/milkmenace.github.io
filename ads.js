@@ -4,7 +4,7 @@ const adimages = [
     "freeglendairyad.gif"
 ];
 const adlinks = [
-    "https://www.youtube.com/watch?v=qILkM1jVyyE",
+    "https://www.youtube.com/watch?v=Zj78r7CWJf8",
     "https://www.youtube.com/@OneyPlays",
     ""
 ];
