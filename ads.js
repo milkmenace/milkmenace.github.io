@@ -3,13 +3,17 @@ const adimages = [
     "lebron2.gif",
     "freeglendairyad.gif",
     "7dkad.jpg",
-    "penis_ad.png"
+    "penis_ad.png",
+    "aifreefapsad.gif",
+    "bonerpillad.gif"
 ];
 const adlinks = [
     "https://www.youtube.com/watch?v=Zj78r7CWJf8",
     "https://www.youtube.com/@OneyPlays",
     "",
     "https://7deadlykittens.myshopify.com/",
+    "",
+    "",
     ""
 ];
 
