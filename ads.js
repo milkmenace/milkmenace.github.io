@@ -5,7 +5,8 @@ const adimages = [
     "7dkad.jpg",
     "penis_ad.png",
     "aifreefapsad.gif",
-    "bonerpillad.gif"
+    "bonerpillad.gif",
+    "howlongad.gif"
 ];
 const adlinks = [
     "https://www.youtube.com/watch?v=Zj78r7CWJf8",
@@ -14,6 +15,7 @@ const adlinks = [
     "https://7deadlykittens.myshopify.com/",
     "",
     "https://en.wikipedia.org/wiki/Uncle_Grandpa",
+    "",
     ""
 ];
 
