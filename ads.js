@@ -13,7 +13,7 @@ const adlinks = [
     "",
     "https://7deadlykittens.myshopify.com/",
     "",
-    "",
+    "https://en.wikipedia.org/wiki/Uncle_Grandpa",
     ""
 ];
 
